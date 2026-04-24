@@ -113,8 +113,3 @@ Please maintain clean code, proper documentation, and consistent formatting.
 
 📄 License
 This project is licensed under the MIT License.
-
-👤 Author
-Devansh Namdev
-GitHub: Devansh6559
-
